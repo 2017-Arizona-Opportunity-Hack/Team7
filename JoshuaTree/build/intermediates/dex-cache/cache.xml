@@ -3,624 +3,606 @@
 
     <item
         is-multidex="true"
-        jar="/Users/Andrew/.android/build-cache/ac345631587dda9eec62ede13fb46ec5d7b8b50f/output/jars/classes.jar"
-        jumboMode="true"
+        jar="/Users/Andrew/.android/build-cache/2d3674f1af2457b9b1a88df0d5082210fb707176/output/jars/classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
-        <dex dex="/Users/Andrew/Desktop/QRCode-using-Google-Vision-API-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6ba46b4d18cd5cc3cdcffe1a245825774758ef2b/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Andrew/Desktop/QRCode-using-Google-Vision-API-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
-        <dex dex="/Users/Andrew/Desktop/QRCode-using-Google-Vision-API-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b1bb80df47fceb3f1b177e879cf90d96cca005a3/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Andrew/.android/build-cache/c22ab2654d48197676dc557c21b6a666c2818aa4/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
-        <dex dex="/Users/Andrew/Desktop/QRCode-using-Google-Vision-API-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_738d2fcfa875804a02d10343ff9f9a886236c767/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Andrew/.android/build-cache/7aaedce95a8d049e55998fd60eb67e7e36854111/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="4c829ff0ccfecb28a999ee46d9e75948dfc777a4">
-        <dex dex="/Users/Andrew/Desktop/QRCode-using-Google-Vision-API-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_92f6120a7433a5f7d287d6e614bb076dcb94e132/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Andrew/.android/build-cache/89f397e2e302b30a68f115abf04d3056409dbf3b/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="2d5d113b0352ab60946fc44c518cf68fd26cbb79">
-        <dex dex="/Users/Andrew/Desktop/QRCode-using-Google-Vision-API-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f756637094bf52fb9500e7d0f2d88851c74b1c42/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Andrew/.android/build-cache/e0f80c17405fe131db919705d4ca9f55f2ac7d92/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
-        <dex dex="/Users/Andrew/Desktop/QRCode-using-Google-Vision-API-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6f4e3390f63ab2c68dfe8a3de7c08be4185d90d7/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Andrew/.android/build-cache/85ccfb52b84c315669b2f29399597d5de49284d8/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
-        <dex dex="/Users/Andrew/Desktop/QRCode-using-Google-Vision-API-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_70c407c4aded0757ae50839837f4640f95e10a7e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Andrew/.android/build-cache/4a18d1488f264245a1614893bf1fab28cf119114/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
-        <dex dex="/Users/Andrew/Desktop/QRCode-using-Google-Vision-API-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_27f754cd461c9f241765a5f622dc03e88d3c20fd/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Andrew/.android/build-cache/17ca98b14640d2b96ccbade55cb7559b233cec26/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
-        <dex dex="/Users/Andrew/Desktop/QRCode-using-Google-Vision-API-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d449f3eba58d2ecdd532df78137b3ed07aa1478e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Andrew/.android/build-cache/a998de18c64704a75eff0301b58ead1d6c941c73/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
-        <dex dex="/Users/Andrew/Desktop/QRCode-using-Google-Vision-API-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f67473d72af3bd6d94fbf36e2115ae31d6927cd3/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Andrew/.android/build-cache/192a084ec3bb1d6a70374060abce27a9167fa56d/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
-        <dex dex="/Users/Andrew/Desktop/QRCode-using-Google-Vision-API-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c1c00e0861fa5583b4db90ae3397682f87bc216e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Andrew/.android/build-cache/71a9e5505e5b352bec59a138da2ace21f8a1a2a3/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
-        <dex dex="/Users/Andrew/Desktop/QRCode-using-Google-Vision-API-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_93d785e110faaa87cd8a70b045e821d3ff8144d7/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Andrew/.android/build-cache/b62e571fb461f51f2f458a955f891707c8f3a805/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
-        <dex dex="/Users/Andrew/Desktop/QRCode-using-Google-Vision-API-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9a527859758ecd832e85bbc420eec2f478337404/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Andrew/.android/build-cache/097197a33c504da937f1ef46786339ddbec1cabc/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
-        <dex dex="/Users/Andrew/Desktop/QRCode-using-Google-Vision-API-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8bca955a3e501494a9c5bfcdc1870b431413997b/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Andrew/.android/build-cache/74753ed2769940fe09edd3ea6bfa72ae35ca0d0a/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
-        <dex dex="/Users/Andrew/Desktop/QRCode-using-Google-Vision-API-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_387ef72c330c2b3d39a30fe0d62ebce655614763/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Andrew/.android/build-cache/5a6139bacd076dde8be256d1c62bf06979573d5a/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="f23ad0f8e58713ff4b55f61c0bbde3830378347c">
-        <dex dex="/Users/Andrew/Desktop/QRCode-using-Google-Vision-API-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_30736e4f4b5c491a1261b73c62eebb01114c748f/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Andrew/.android/build-cache/f271051ecdcab65db0255fb3166ff8d7f6e37649/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
-        <dex dex="/Users/Andrew/Desktop/QRCode-using-Google-Vision-API-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8989634f1fdda694f4e685003bb07bd03445cb35/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Andrew/.android/build-cache/e5f46804feba60de6cfbc40190cd68c78a4edbda/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="7a64bf6dc775198eed9db9468a133adf7dfe6562">
-        <dex dex="/Users/Andrew/Desktop/QRCode-using-Google-Vision-API-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_62fa70b0b56efc54f491807abe8cdfc0aa622aaa/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Andrew/.android/build-cache/d72a4adef08868f30befd533df03c6654e4167da/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
-        <dex dex="/Users/Andrew/Desktop/QRCode-using-Google-Vision-API-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ee894d33745b27005fb738b19bb9ee2831b64189/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Andrew/.android/build-cache/d6dea1e52285b85c68ae1c4388c54d2cf40c00d5/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
-        <dex dex="/Users/Andrew/Desktop/QRCode-using-Google-Vision-API-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dafeeedf536cf3c0c28ca0f1c662ac69ac41e047/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Andrew/.android/build-cache/23cdebf4384f4ef9eee951d2bd71930a8ab87042/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="39907d5c8f5902fffef30160ca7447c93b82405c">
-        <dex dex="/Users/Andrew/Desktop/QRCode-using-Google-Vision-API-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dae120e9baa50674627d80ee277a7375280e1c97/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Andrew/.android/build-cache/173d529d9f35744c3250f6a0811025e7e438264b/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="e871881b36b32e6bfd271a830c6eeb54ff0fc185">
-        <dex dex="/Users/Andrew/Desktop/QRCode-using-Google-Vision-API-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0b84246b113260229c304895344b034bbbeb0dcd/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Andrew/.android/build-cache/c7115c1b59014a7da3947306bf9a188b78f09175/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="a48dc0b148059764d32500be558702d5ff932058">
-        <dex dex="/Users/Andrew/Desktop/QRCode-using-Google-Vision-API-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d0900633220aa44d490fd5d426ead2c75fb383d4/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Andrew/.android/build-cache/77b618ef38cc757f44409f59c394702bc394886b/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
-        <dex dex="/Users/Andrew/Desktop/QRCode-using-Google-Vision-API-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d920a7f7852f459eb17b85070e85383c9ff23e2b/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Andrew/.android/build-cache/acf86c2316fede0176c502391df3ed4e48f18d16/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="1e11c68fec92a17c84dd8d1dd80e74c4e67b12e2">
-        <dex dex="/Users/Andrew/Desktop/QRCode-using-Google-Vision-API-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_515fe5831745110c84e546ada04062d74a5e8790/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Andrew/.android/build-cache/6364a762a5b49d33e07a021bfc2a588be9d8c6e1/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
-        <dex dex="/Users/Andrew/Desktop/QRCode-using-Google-Vision-API-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d77c16c9c98a530170f7e07a7647cbdb35107b00/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Andrew/.android/build-cache/6b338a46c5860189393f87d62dbfb85a403a1d91/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
-        <dex dex="/Users/Andrew/Desktop/QRCode-using-Google-Vision-API-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7815a0cda05c79100c2abba2c15a62c41633e01c/classes.dex" />
+        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
+        <dex dex="/Users/Andrew/Desktop/Team7/JoshuaTree/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e0314ff32ba2348c5762fc2decf4b982cd45a9fb/classes.dex" />
     </item>
     <item
         is-multidex="true"
         jar="/Users/Andrew/.android/build-cache/8ed4f21cde8b41fc506b6f2679aa3092452409f9/output/jars/classes.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="408a599ac77cd17fe8e8919326bec617b3d005bd">
-        <dex dex="/Users/Andrew/Desktop/QRCode-using-Google-Vision-API-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c27632ab5dce17b7561d41fddd31cd7a9419ec67/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Andrew/.android/build-cache/b57e82c95766f799b81d7476ca2600d4225f9fbe/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
-        <dex dex="/Users/Andrew/Desktop/QRCode-using-Google-Vision-API-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c85aa62a4107f172db38c538dbc4f3c86e92c1c3/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Andrew/.android/build-cache/b57e82c95766f799b81d7476ca2600d4225f9fbe/output/jars/libs/internal_impl-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
-        <dex dex="/Users/Andrew/Desktop/QRCode-using-Google-Vision-API-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_18b32698613a76f5aa1d787fb57e9f53d69ed84c/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Andrew/.android/build-cache/1f4b6083e45648fc70e7ed865d1749c28a0b401a/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
-        <dex dex="/Users/Andrew/Desktop/QRCode-using-Google-Vision-API-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3c6f18f111dd8646c92d972b988e0d5a1b816aa5/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Andrew/.android/build-cache/af92660afeb98966f10bc1dc1195a8d6faa6d318/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="92c871a22463a247e8a77a9f3fd231c278788c4a">
-        <dex dex="/Users/Andrew/Desktop/QRCode-using-Google-Vision-API-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c530b2529e9833b8116ad493501a3b13a12c19a7/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Andrew/.android/build-cache/3d2939a16d7723802fc048b0386a759dacd0c35c/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
-        <dex dex="/Users/Andrew/Desktop/QRCode-using-Google-Vision-API-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d2606915618809149432c2e608a322711244729e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Andrew/.android/build-cache/2b3def23335b48c87027b9ed1bf0dbc072cdaaa0/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="ba6aa5e69ef31dee57208125323cee958fc67565">
-        <dex dex="/Users/Andrew/Desktop/QRCode-using-Google-Vision-API-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9abe7797a97f1b0e68adc7df5fd35133e69ad112/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Andrew/.android/build-cache/734aab43f650499e92ec233b1b0f19364154b121/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="f3e51e9c5233b8897f61e08a6a27bc36283c2724">
-        <dex dex="/Users/Andrew/Desktop/QRCode-using-Google-Vision-API-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bc19573e4801497d3cc07886f6ee8d3a42905536/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Andrew/.android/build-cache/69a9296ada733f092542c59a5a5ec28bcce788b3/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
-        <dex dex="/Users/Andrew/Desktop/QRCode-using-Google-Vision-API-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_009cb9447f3282f42bc2ec605178a59a72f1426e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Andrew/.android/build-cache/fddbf1fdb3c24f7ae6cfb7563137640b884c5dc1/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="45305e6af414dab5aba6c3225081c2f15c3bdd1e">
-        <dex dex="/Users/Andrew/Desktop/QRCode-using-Google-Vision-API-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7ec891b0de8bd65c28c3369498e10195618e0e56/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Andrew/.android/build-cache/25745dfc43f4b41d31a359562153be44a50dbf4e/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="771267c5b0c7a5b348d3205dcfa1f871af7e0177">
-        <dex dex="/Users/Andrew/Desktop/QRCode-using-Google-Vision-API-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6a036af1ab71cffc1c2add8bfd76b6b947232fe0/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Andrew/.android/build-cache/cee25134bfc89883fd98b21300488290ac47f4a5/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="f6cf557be4dbd0282ea2388633e5378634423226">
-        <dex dex="/Users/Andrew/Desktop/QRCode-using-Google-Vision-API-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e16de1093d423b7849de9ee0bf61968aa42bafc9/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Andrew/.android/build-cache/b08c2107033adf97acf01ecc4da94fe9d63c44a1/output/jars/libs/internal_impl-24.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
-        <dex dex="/Users/Andrew/Desktop/QRCode-using-Google-Vision-API-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_b69097f0afdbeef9b352707f196fc9576c1656d7/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Andrew/.android/build-cache/e841250672eff4bf9ff6bc2315f40bb628ec1a46/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="c14f0c89f28cf782e42581ab0aba5f63af39b3d2">
-        <dex dex="/Users/Andrew/Desktop/QRCode-using-Google-Vision-API-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d475d07a795dbc3399b920eced610533d1aa69f1/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Andrew/.android/build-cache/451a182c0d2289931dafa431df0ebb9a599503f8/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
-        <dex dex="/Users/Andrew/Desktop/QRCode-using-Google-Vision-API-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fbe8d8d2589d5b10f242c75651cffe01ecb5cf57/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Andrew/.android/build-cache/ac345631587dda9eec62ede13fb46ec5d7b8b50f/output/jars/libs/internal_impl-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
-        <dex dex="/Users/Andrew/Desktop/QRCode-using-Google-Vision-API-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_649be63d44cc1a4af76e3312a2d0c7845b9c3e95/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Andrew/.android/build-cache/57c38491f63ac0720ef6e3824c6d5ef16ce17d95/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="b1df8fa3d372a27e4e969ce00b00689ee1eed031">
-        <dex dex="/Users/Andrew/Desktop/QRCode-using-Google-Vision-API-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bb28bc2194f9e6e01dd92e576b35159bcada0a6b/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Andrew/.android/build-cache/1b4a9f468557e8e93546af7b25af84d1ac82aa4b/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="971509bbe30bb7b971fc1c49d7b23d0d818830ac">
-        <dex dex="/Users/Andrew/Desktop/QRCode-using-Google-Vision-API-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1a55841289940d745ee72a7e7649c33d1d1b75c4/classes.dex" />
+        <dex dex="/Users/Andrew/Desktop/Team7/JoshuaTree/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c27632ab5dce17b7561d41fddd31cd7a9419ec67/classes.dex" />
     </item>
     <item
         is-multidex="true"
         jar="/Users/Andrew/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
-        <dex dex="/Users/Andrew/Desktop/QRCode-using-Google-Vision-API-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.1_75b5e7a17be77b1179f76e2e751c60325de38d5a/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Andrew/Desktop/QRCode-using-Google-Vision-API-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="9f749e8dfe0f47893fe10a52c987adca4aba4017">
-        <dex dex="/Users/Andrew/Desktop/QRCode-using-Google-Vision-API-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b92aff8fab00a938fac002e1f1bc8d7032c29b6d/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Andrew/.android/build-cache/c80410888281efadf4a226e3ebe73d235c512247/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="ffc15e965a9e8c28f24455eedd4cac215c45d1fc">
-        <dex dex="/Users/Andrew/Desktop/QRCode-using-Google-Vision-API-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a7a47a1a24c5223470f427132ffd1f65daa9815c/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Andrew/.android/build-cache/2d3674f1af2457b9b1a88df0d5082210fb707176/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
-        <dex dex="/Users/Andrew/Desktop/QRCode-using-Google-Vision-API-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e0314ff32ba2348c5762fc2decf4b982cd45a9fb/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Andrew/.android/build-cache/b1aa43d83b8132ab66f7032cb5762f5f4472a3fd/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
-        <dex dex="/Users/Andrew/Desktop/QRCode-using-Google-Vision-API-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_48dc930c3f52eec1dc8c2ab557ca1c3b4c79a82b/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Andrew/.android/build-cache/c4e59ef047684138fc9554c4fb945928ea7d975e/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
-        <dex dex="/Users/Andrew/Desktop/QRCode-using-Google-Vision-API-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2cde625f543077270a2c014e076ae5706880fcbe/classes.dex" />
+        <dex dex="/Users/Andrew/Desktop/Team7/JoshuaTree/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.1_75b5e7a17be77b1179f76e2e751c60325de38d5a/classes.dex" />
     </item>
     <item
         is-multidex="true"
         jar="/Users/Andrew/.android/build-cache/f271051ecdcab65db0255fb3166ff8d7f6e37649/output/jars/libs/internal_impl-25.0.1.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
-        <dex dex="/Users/Andrew/Desktop/QRCode-using-Google-Vision-API-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_1a533906947b86a34853d176789aae55d2218f7e/classes.dex" />
+        <dex dex="/Users/Andrew/Desktop/Team7/JoshuaTree/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_1a533906947b86a34853d176789aae55d2218f7e/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/Andrew/.android/build-cache/7d1284e626cc73d47b4d307a45fadce0d7f98e53/output/jars/classes.jar"
-        jumboMode="true"
+        jar="/Users/Andrew/.android/build-cache/fddbf1fdb3c24f7ae6cfb7563137640b884c5dc1/output/jars/classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
-        <dex dex="/Users/Andrew/Desktop/QRCode-using-Google-Vision-API-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_160ef82d4df0a92ed5eb5623f4eee694c7233c62/classes.dex" />
+        sha1="45305e6af414dab5aba6c3225081c2f15c3bdd1e">
+        <dex dex="/Users/Andrew/Desktop/Team7/JoshuaTree/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7ec891b0de8bd65c28c3369498e10195618e0e56/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/Andrew/.android/build-cache/b08c2107033adf97acf01ecc4da94fe9d63c44a1/output/jars/classes.jar"
-        jumboMode="true"
+        jar="/Users/Andrew/.android/build-cache/451a182c0d2289931dafa431df0ebb9a599503f8/output/jars/classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
-        <dex dex="/Users/Andrew/Desktop/QRCode-using-Google-Vision-API-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_04a0b077b7c16373cff3b7cdf9ddcdb9af8e2621/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Andrew/.android/build-cache/d033076a0f72e3f8c0777ae46ee413e2e8f1f71e/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
-        <dex dex="/Users/Andrew/Desktop/QRCode-using-Google-Vision-API-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_38c4951f2c6ea25e1ce3c0b7c48a994a6605b918/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Andrew/.android/build-cache/4445b1996254c608b92d6fdd7604d5aa0f8ed5e8/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
-        <dex dex="/Users/Andrew/Desktop/QRCode-using-Google-Vision-API-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_815097c786bfc113971f7272a605c746635d6755/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Andrew/.android/build-cache/7b61cf371d1d2fa3bef922d176718bf94c9fce24/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="4385ccc0a88b33d182a836eadb47be55c8eb1107">
-        <dex dex="/Users/Andrew/Desktop/QRCode-using-Google-Vision-API-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_72d2a99d2e5bec4acafb71f34bdaf1e98deff6a6/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Andrew/.android/build-cache/f2b65a95351290c231486ce0fb16e50bab820886/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
-        <dex dex="/Users/Andrew/Desktop/QRCode-using-Google-Vision-API-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8b92e3f9c7bd99e819f0d034cbb933c95d0dd356/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Andrew/.android/build-cache/e45f194f5d66750afdc114a18b2c83898d4e7db3/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="8308ed003522a2ee8958311afcc4cfd0470377cd">
-        <dex dex="/Users/Andrew/Desktop/QRCode-using-Google-Vision-API-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5cf571eabfcf1f4f61b5ecf5156452fd9a0270c4/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Andrew/.android/build-cache/a5bec80cd20bdfb25af71ba3dd9c3687ae5f6817/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="df1cb17511aabbb63264a0024949d1e42502a512">
-        <dex dex="/Users/Andrew/Desktop/QRCode-using-Google-Vision-API-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ad13ded25e89e9848d59bbc8e42986124b554466/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Andrew/.android/build-cache/43fee56ad013cc0934a25b9770f8b4f9a46155da/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="ae80d328a8548b4610ead6c624bab8c6a6984f5b">
-        <dex dex="/Users/Andrew/Desktop/QRCode-using-Google-Vision-API-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c76d8136498f963bfaed9973a29900c6251f11f5/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Andrew/.android/build-cache/37228de972fb2ef8f9131ff902e79dc8c086cc54/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
-        <dex dex="/Users/Andrew/Desktop/QRCode-using-Google-Vision-API-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_39ea31f76537c1d6e91aa29a3b525e83bcfae6fc/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Andrew/.android/build-cache/055496479c73df5ca8167579d5bd685173dbe3f4/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="1d193729baf37df3d902a423291423a0df7e3779">
-        <dex dex="/Users/Andrew/Desktop/QRCode-using-Google-Vision-API-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_374f6ac034977dcfb3b4d903d50e82422fd21565/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Andrew/.android/build-cache/03eb9f6e0e50f5ad5fdaf2895cac0652c662e412/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/Andrew/Desktop/QRCode-using-Google-Vision-API-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2744d8c3b83b99a22a3f428679cf5edf103d5272/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Andrew/.android/build-cache/a0c8e81951205686ed46d04ca4471a9aedbc22ca/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="c6e1f361e9d61aece9dac39b77fcc98a337a144d">
-        <dex dex="/Users/Andrew/Desktop/QRCode-using-Google-Vision-API-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e944f52b3cc3db27f253aa70cf9fcd2c463e9ad7/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Andrew/.android/build-cache/96fb2373f724f7df530d59a1d7170b8efb53d2a4/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
-        <dex dex="/Users/Andrew/Desktop/QRCode-using-Google-Vision-API-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_27647311a053e19bb75d53c8ad614c085372ac38/classes.dex" />
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="/Users/Andrew/Desktop/Team7/JoshuaTree/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fbe8d8d2589d5b10f242c75651cffe01ecb5cf57/classes.dex" />
     </item>
     <item
         is-multidex="true"
         jar="/Users/Andrew/.android/build-cache/7d1284e626cc73d47b4d307a45fadce0d7f98e53/output/jars/libs/internal_impl-25.0.1.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
-        <dex dex="/Users/Andrew/Desktop/QRCode-using-Google-Vision-API-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_00b1bc0fe19a5904a3e0fa3b79970aca57fea9e2/classes.dex" />
+        <dex dex="/Users/Andrew/Desktop/Team7/JoshuaTree/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_00b1bc0fe19a5904a3e0fa3b79970aca57fea9e2/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/Andrew/.android/build-cache/35c8d6f5bac42a78acba106013c28d35242cf3ec/output/jars/classes.jar"
-        jumboMode="true"
+        jar="/Users/Andrew/.android/build-cache/57c38491f63ac0720ef6e3824c6d5ef16ce17d95/output/jars/classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="028f8255cb977b29cdffbfcf05caa0459686120c">
-        <dex dex="/Users/Andrew/Desktop/QRCode-using-Google-Vision-API-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ed8bcf0dbe5072410177af4b8bcd3c05b1ec5c77/classes.dex" />
+        sha1="b1df8fa3d372a27e4e969ce00b00689ee1eed031">
+        <dex dex="/Users/Andrew/Desktop/Team7/JoshuaTree/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bb28bc2194f9e6e01dd92e576b35159bcada0a6b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Andrew/.android/build-cache/e841250672eff4bf9ff6bc2315f40bb628ec1a46/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c14f0c89f28cf782e42581ab0aba5f63af39b3d2">
+        <dex dex="/Users/Andrew/Desktop/Team7/JoshuaTree/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d475d07a795dbc3399b920eced610533d1aa69f1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Andrew/.android/build-cache/734aab43f650499e92ec233b1b0f19364154b121/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f3e51e9c5233b8897f61e08a6a27bc36283c2724">
+        <dex dex="/Users/Andrew/Desktop/Team7/JoshuaTree/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bc19573e4801497d3cc07886f6ee8d3a42905536/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Andrew/.android/build-cache/69a9296ada733f092542c59a5a5ec28bcce788b3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="/Users/Andrew/Desktop/Team7/JoshuaTree/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_009cb9447f3282f42bc2ec605178a59a72f1426e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Andrew/.android/build-cache/1b4a9f468557e8e93546af7b25af84d1ac82aa4b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="971509bbe30bb7b971fc1c49d7b23d0d818830ac">
+        <dex dex="/Users/Andrew/Desktop/Team7/JoshuaTree/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1a55841289940d745ee72a7e7649c33d1d1b75c4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Andrew/.android/build-cache/b08c2107033adf97acf01ecc4da94fe9d63c44a1/output/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="/Users/Andrew/Desktop/Team7/JoshuaTree/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_b69097f0afdbeef9b352707f196fc9576c1656d7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Andrew/.android/build-cache/d72a4adef08868f30befd533df03c6654e4167da/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/Users/Andrew/Desktop/Team7/JoshuaTree/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ee894d33745b27005fb738b19bb9ee2831b64189/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Andrew/.android/build-cache/7d1284e626cc73d47b4d307a45fadce0d7f98e53/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/Andrew/Desktop/Team7/JoshuaTree/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_160ef82d4df0a92ed5eb5623f4eee694c7233c62/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Andrew/.android/build-cache/c4e59ef047684138fc9554c4fb945928ea7d975e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/Users/Andrew/Desktop/Team7/JoshuaTree/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2cde625f543077270a2c014e076ae5706880fcbe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Andrew/.android/build-cache/cee25134bfc89883fd98b21300488290ac47f4a5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f6cf557be4dbd0282ea2388633e5378634423226">
+        <dex dex="/Users/Andrew/Desktop/Team7/JoshuaTree/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e16de1093d423b7849de9ee0bf61968aa42bafc9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Andrew/.android/build-cache/b08c2107033adf97acf01ecc4da94fe9d63c44a1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="/Users/Andrew/Desktop/Team7/JoshuaTree/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_04a0b077b7c16373cff3b7cdf9ddcdb9af8e2621/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Andrew/.android/build-cache/e45f194f5d66750afdc114a18b2c83898d4e7db3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8308ed003522a2ee8958311afcc4cfd0470377cd">
+        <dex dex="/Users/Andrew/Desktop/Team7/JoshuaTree/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5cf571eabfcf1f4f61b5ecf5156452fd9a0270c4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Andrew/.android/build-cache/ac345631587dda9eec62ede13fb46ec5d7b8b50f/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/Andrew/Desktop/Team7/JoshuaTree/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_649be63d44cc1a4af76e3312a2d0c7845b9c3e95/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Andrew/.android/build-cache/a5bec80cd20bdfb25af71ba3dd9c3687ae5f6817/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="df1cb17511aabbb63264a0024949d1e42502a512">
+        <dex dex="/Users/Andrew/Desktop/Team7/JoshuaTree/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ad13ded25e89e9848d59bbc8e42986124b554466/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Andrew/.android/build-cache/43fee56ad013cc0934a25b9770f8b4f9a46155da/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ae80d328a8548b4610ead6c624bab8c6a6984f5b">
+        <dex dex="/Users/Andrew/Desktop/Team7/JoshuaTree/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c76d8136498f963bfaed9973a29900c6251f11f5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Andrew/.android/build-cache/b1aa43d83b8132ab66f7032cb5762f5f4472a3fd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/Users/Andrew/Desktop/Team7/JoshuaTree/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_48dc930c3f52eec1dc8c2ab557ca1c3b4c79a82b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Andrew/.android/build-cache/d033076a0f72e3f8c0777ae46ee413e2e8f1f71e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="/Users/Andrew/Desktop/Team7/JoshuaTree/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_38c4951f2c6ea25e1ce3c0b7c48a994a6605b918/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Andrew/.android/build-cache/03eb9f6e0e50f5ad5fdaf2895cac0652c662e412/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Andrew/Desktop/Team7/JoshuaTree/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2744d8c3b83b99a22a3f428679cf5edf103d5272/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Andrew/.android/build-cache/25745dfc43f4b41d31a359562153be44a50dbf4e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="771267c5b0c7a5b348d3205dcfa1f871af7e0177">
+        <dex dex="/Users/Andrew/Desktop/Team7/JoshuaTree/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6a036af1ab71cffc1c2add8bfd76b6b947232fe0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Andrew/.android/build-cache/37228de972fb2ef8f9131ff902e79dc8c086cc54/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/Users/Andrew/Desktop/Team7/JoshuaTree/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_39ea31f76537c1d6e91aa29a3b525e83bcfae6fc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Andrew/.android/build-cache/4445b1996254c608b92d6fdd7604d5aa0f8ed5e8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="/Users/Andrew/Desktop/Team7/JoshuaTree/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_815097c786bfc113971f7272a605c746635d6755/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Andrew/.android/build-cache/a998de18c64704a75eff0301b58ead1d6c941c73/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="/Users/Andrew/Desktop/Team7/JoshuaTree/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f67473d72af3bd6d94fbf36e2115ae31d6927cd3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Andrew/.android/build-cache/a0c8e81951205686ed46d04ca4471a9aedbc22ca/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c6e1f361e9d61aece9dac39b77fcc98a337a144d">
+        <dex dex="/Users/Andrew/Desktop/Team7/JoshuaTree/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e944f52b3cc3db27f253aa70cf9fcd2c463e9ad7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Andrew/.android/build-cache/055496479c73df5ca8167579d5bd685173dbe3f4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="/Users/Andrew/Desktop/Team7/JoshuaTree/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_374f6ac034977dcfb3b4d903d50e82422fd21565/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Andrew/.android/build-cache/89f397e2e302b30a68f115abf04d3056409dbf3b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2d5d113b0352ab60946fc44c518cf68fd26cbb79">
+        <dex dex="/Users/Andrew/Desktop/Team7/JoshuaTree/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f756637094bf52fb9500e7d0f2d88851c74b1c42/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Andrew/.android/build-cache/2b3def23335b48c87027b9ed1bf0dbc072cdaaa0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ba6aa5e69ef31dee57208125323cee958fc67565">
+        <dex dex="/Users/Andrew/Desktop/Team7/JoshuaTree/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9abe7797a97f1b0e68adc7df5fd35133e69ad112/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Andrew/.android/build-cache/96fb2373f724f7df530d59a1d7170b8efb53d2a4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/Andrew/Desktop/Team7/JoshuaTree/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_27647311a053e19bb75d53c8ad614c085372ac38/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Andrew/.android/build-cache/b62e571fb461f51f2f458a955f891707c8f3a805/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="/Users/Andrew/Desktop/Team7/JoshuaTree/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9a527859758ecd832e85bbc420eec2f478337404/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Andrew/.android/build-cache/192a084ec3bb1d6a70374060abce27a9167fa56d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="/Users/Andrew/Desktop/Team7/JoshuaTree/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c1c00e0861fa5583b4db90ae3397682f87bc216e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Andrew/.android/build-cache/17ca98b14640d2b96ccbade55cb7559b233cec26/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="/Users/Andrew/Desktop/Team7/JoshuaTree/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d449f3eba58d2ecdd532df78137b3ed07aa1478e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Andrew/.android/build-cache/3d2939a16d7723802fc048b0386a759dacd0c35c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
+        <dex dex="/Users/Andrew/Desktop/Team7/JoshuaTree/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d2606915618809149432c2e608a322711244729e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Andrew/.android/build-cache/85ccfb52b84c315669b2f29399597d5de49284d8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
+        <dex dex="/Users/Andrew/Desktop/Team7/JoshuaTree/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_70c407c4aded0757ae50839837f4640f95e10a7e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Andrew/.android/build-cache/7aaedce95a8d049e55998fd60eb67e7e36854111/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4c829ff0ccfecb28a999ee46d9e75948dfc777a4">
+        <dex dex="/Users/Andrew/Desktop/Team7/JoshuaTree/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_92f6120a7433a5f7d287d6e614bb076dcb94e132/classes.dex" />
     </item>
     <item
         is-multidex="true"
         jar="/Users/Andrew/.android/build-cache/96fb2373f724f7df530d59a1d7170b8efb53d2a4/output/jars/libs/internal_impl-25.0.1.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="f83b00041ecfba705603fec40363416c7de69719">
-        <dex dex="/Users/Andrew/Desktop/QRCode-using-Google-Vision-API-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_4abf3b393e242f7937e72d42c0271f383df16ba1/classes.dex" />
+        <dex dex="/Users/Andrew/Desktop/Team7/JoshuaTree/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_4abf3b393e242f7937e72d42c0271f383df16ba1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Andrew/.android/build-cache/e0f80c17405fe131db919705d4ca9f55f2ac7d92/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/Andrew/Desktop/Team7/JoshuaTree/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6f4e3390f63ab2c68dfe8a3de7c08be4185d90d7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Andrew/.android/build-cache/ac345631587dda9eec62ede13fb46ec5d7b8b50f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/Andrew/Desktop/Team7/JoshuaTree/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6ba46b4d18cd5cc3cdcffe1a245825774758ef2b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Andrew/.android/build-cache/71a9e5505e5b352bec59a138da2ace21f8a1a2a3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="/Users/Andrew/Desktop/Team7/JoshuaTree/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_93d785e110faaa87cd8a70b045e821d3ff8144d7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Andrew/.android/build-cache/35c8d6f5bac42a78acba106013c28d35242cf3ec/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="028f8255cb977b29cdffbfcf05caa0459686120c">
+        <dex dex="/Users/Andrew/Desktop/Team7/JoshuaTree/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ed8bcf0dbe5072410177af4b8bcd3c05b1ec5c77/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Andrew/.android/build-cache/acf86c2316fede0176c502391df3ed4e48f18d16/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1e11c68fec92a17c84dd8d1dd80e74c4e67b12e2">
+        <dex dex="/Users/Andrew/Desktop/Team7/JoshuaTree/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_515fe5831745110c84e546ada04062d74a5e8790/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Andrew/.android/build-cache/f2b65a95351290c231486ce0fb16e50bab820886/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="/Users/Andrew/Desktop/Team7/JoshuaTree/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8b92e3f9c7bd99e819f0d034cbb933c95d0dd356/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Andrew/.android/build-cache/7b61cf371d1d2fa3bef922d176718bf94c9fce24/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4385ccc0a88b33d182a836eadb47be55c8eb1107">
+        <dex dex="/Users/Andrew/Desktop/Team7/JoshuaTree/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_72d2a99d2e5bec4acafb71f34bdaf1e98deff6a6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Andrew/.android/build-cache/e5f46804feba60de6cfbc40190cd68c78a4edbda/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7a64bf6dc775198eed9db9468a133adf7dfe6562">
+        <dex dex="/Users/Andrew/Desktop/Team7/JoshuaTree/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_62fa70b0b56efc54f491807abe8cdfc0aa622aaa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Andrew/.android/build-cache/74753ed2769940fe09edd3ea6bfa72ae35ca0d0a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/Andrew/Desktop/Team7/JoshuaTree/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_387ef72c330c2b3d39a30fe0d62ebce655614763/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Andrew/.android/build-cache/c22ab2654d48197676dc557c21b6a666c2818aa4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="/Users/Andrew/Desktop/Team7/JoshuaTree/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_738d2fcfa875804a02d10343ff9f9a886236c767/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Andrew/.android/build-cache/097197a33c504da937f1ef46786339ddbec1cabc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/Andrew/Desktop/Team7/JoshuaTree/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8bca955a3e501494a9c5bfcdc1870b431413997b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Andrew/.android/build-cache/d6dea1e52285b85c68ae1c4388c54d2cf40c00d5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="/Users/Andrew/Desktop/Team7/JoshuaTree/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dafeeedf536cf3c0c28ca0f1c662ac69ac41e047/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Andrew/.android/build-cache/4a18d1488f264245a1614893bf1fab28cf119114/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="/Users/Andrew/Desktop/Team7/JoshuaTree/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_27f754cd461c9f241765a5f622dc03e88d3c20fd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Andrew/.android/build-cache/5a6139bacd076dde8be256d1c62bf06979573d5a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f23ad0f8e58713ff4b55f61c0bbde3830378347c">
+        <dex dex="/Users/Andrew/Desktop/Team7/JoshuaTree/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_30736e4f4b5c491a1261b73c62eebb01114c748f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Andrew/.android/build-cache/c80410888281efadf4a226e3ebe73d235c512247/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ffc15e965a9e8c28f24455eedd4cac215c45d1fc">
+        <dex dex="/Users/Andrew/Desktop/Team7/JoshuaTree/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a7a47a1a24c5223470f427132ffd1f65daa9815c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Andrew/.android/build-cache/1f4b6083e45648fc70e7ed865d1749c28a0b401a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="/Users/Andrew/Desktop/Team7/JoshuaTree/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3c6f18f111dd8646c92d972b988e0d5a1b816aa5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Andrew/.android/build-cache/f271051ecdcab65db0255fb3166ff8d7f6e37649/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/Andrew/Desktop/Team7/JoshuaTree/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8989634f1fdda694f4e685003bb07bd03445cb35/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Andrew/.android/build-cache/77b618ef38cc757f44409f59c394702bc394886b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="/Users/Andrew/Desktop/Team7/JoshuaTree/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d920a7f7852f459eb17b85070e85383c9ff23e2b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Andrew/.android/build-cache/6364a762a5b49d33e07a021bfc2a588be9d8c6e1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="/Users/Andrew/Desktop/Team7/JoshuaTree/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d77c16c9c98a530170f7e07a7647cbdb35107b00/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Andrew/.android/build-cache/6b338a46c5860189393f87d62dbfb85a403a1d91/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
+        <dex dex="/Users/Andrew/Desktop/Team7/JoshuaTree/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7815a0cda05c79100c2abba2c15a62c41633e01c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Andrew/.android/build-cache/b57e82c95766f799b81d7476ca2600d4225f9fbe/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/Andrew/Desktop/Team7/JoshuaTree/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c85aa62a4107f172db38c538dbc4f3c86e92c1c3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Andrew/.android/build-cache/c7115c1b59014a7da3947306bf9a188b78f09175/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a48dc0b148059764d32500be558702d5ff932058">
+        <dex dex="/Users/Andrew/Desktop/Team7/JoshuaTree/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d0900633220aa44d490fd5d426ead2c75fb383d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Andrew/.android/build-cache/173d529d9f35744c3250f6a0811025e7e438264b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e871881b36b32e6bfd271a830c6eeb54ff0fc185">
+        <dex dex="/Users/Andrew/Desktop/Team7/JoshuaTree/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0b84246b113260229c304895344b034bbbeb0dcd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Andrew/.android/build-cache/b57e82c95766f799b81d7476ca2600d4225f9fbe/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/Andrew/Desktop/Team7/JoshuaTree/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_18b32698613a76f5aa1d787fb57e9f53d69ed84c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Andrew/.android/build-cache/23cdebf4384f4ef9eee951d2bd71930a8ab87042/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="39907d5c8f5902fffef30160ca7447c93b82405c">
+        <dex dex="/Users/Andrew/Desktop/Team7/JoshuaTree/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dae120e9baa50674627d80ee277a7375280e1c97/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Andrew/.android/build-cache/af92660afeb98966f10bc1dc1195a8d6faa6d318/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="92c871a22463a247e8a77a9f3fd231c278788c4a">
+        <dex dex="/Users/Andrew/Desktop/Team7/JoshuaTree/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c530b2529e9833b8116ad493501a3b13a12c19a7/classes.dex" />
     </item>
 
 </items>
