@@ -16,8 +16,16 @@
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Process"
+            android:text="ohh"
             android:id="@+id/button"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentStart="true" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="QR Code Scanner"
+            android:id="@+id/scan_btn"
             android:layout_alignParentTop="true"
             android:layout_alignParentStart="true" />
         <ImageView
