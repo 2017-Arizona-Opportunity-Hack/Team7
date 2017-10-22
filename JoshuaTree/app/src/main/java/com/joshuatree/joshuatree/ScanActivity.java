@@ -33,7 +33,7 @@ public class ScanActivity extends AppCompatActivity {
         cameraView.setZOrderMediaOverlay(true);
         holder = cameraView.getHolder();
         barcode = new BarcodeDetector.Builder(this)
-                .setBarcodeFormats(Barcode.ALL_FORMATS)
+                .setBarcodeFormats(Barcode.QR_CODE)
                 .build();
         if(!barcode.isOperational()){
             Toast.makeText(getApplicationContext(), "Sorry, Couldn't setup the detector", Toast.LENGTH_LONG).show();

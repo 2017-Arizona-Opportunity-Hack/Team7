@@ -2,22 +2,229 @@
 <items version="2" >
 
     <item
-        is-multidex="true"
-        jar="/home/yfoo/Documents/HackAZ2017/JoshuaTree/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/Users/azaldinfreidoon/.android/build-cache/ed31d6730762e57b04a78647e4b35821ba6d9e1e/output/jars/classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.3"
-        sha1="9f30550cf8e1ce7119c4960f1d7ddade180c885b">
-        <dex dex="/home/yfoo/Documents/HackAZ2017/JoshuaTree/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b68d34b823c38d6f2a5484a559615e6eb5a95bd1/classes.dex" />
+        sha1="cb4af597d079ffdc0984a3ec2c03cbf6a1b9f869">
+        <dex dex="/Users/azaldinfreidoon/Documents/ASU/Team7/JoshuaTree/app/build/intermediates/pre-dexed/debug/classes_1c6b9d6028e12937dd9b487770a395e254da79c5.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/home/yfoo/Documents/HackAZ2017/JoshuaTree/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/Users/azaldinfreidoon/.android/build-cache/dbf76639ca0bb97573d7408ca023fb6ad3c70489/output/jars/classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.3"
-        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
-        <dex dex="/home/yfoo/Documents/HackAZ2017/JoshuaTree/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_9ca275964bf26ceef7a6e196b612917eafec3794/classes.dex" />
+        sha1="9aedc597d74c6d77258ce5236e9abff0c3cc65e3">
+        <dex dex="/Users/azaldinfreidoon/Documents/ASU/Team7/JoshuaTree/app/build/intermediates/pre-dexed/debug/classes_a7f11c661bb3e9fef2822d8e614ef74a27475c18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/azaldinfreidoon/.android/build-cache/8a590c6f7b19dea595258f399398a1a0b7aead6a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="345a1b5cf5b144ce18ba6962bc66a7e2f26c1c1b">
+        <dex dex="/Users/azaldinfreidoon/Documents/ASU/Team7/JoshuaTree/app/build/intermediates/pre-dexed/debug/classes_a36dffe959b7019094a9b7aa2a73cf223bfbac32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/azaldinfreidoon/.android/build-cache/daab0b81d4ed1b060840fc9027abf9255fc79162/output/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="/Users/azaldinfreidoon/Documents/ASU/Team7/JoshuaTree/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0_2abbd19acce8b10d6cab0e77981627ea60a6d6c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/azaldinfreidoon/.android/build-cache/32359e230b03f11ecfd2621398b6459777876db6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9c9bdb4b2497465a6cf7d5e8f57c5298f828a380">
+        <dex dex="/Users/azaldinfreidoon/Documents/ASU/Team7/JoshuaTree/app/build/intermediates/pre-dexed/debug/classes_e588cb28319699a55ac37a515a22f3bc82a711ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/azaldinfreidoon/.android/build-cache/b94f96ec5ec1c89afae8ba3f0a038cddc86462ef/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="744c49c02a27569cc4cc049685d3649e4ef439f2">
+        <dex dex="/Users/azaldinfreidoon/Documents/ASU/Team7/JoshuaTree/app/build/intermediates/pre-dexed/debug/classes_71c05600eec3cb42a4ed59b227b3d948eca46fed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/azaldinfreidoon/.android/build-cache/d4e85e4f43831cc5119c432e77aa8d4871d1fcf3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4b8df1b1e51fe14b0e89b3845dc2e215a024a09f">
+        <dex dex="/Users/azaldinfreidoon/Documents/ASU/Team7/JoshuaTree/app/build/intermediates/pre-dexed/debug/classes_74f0f415a999b94aeb4270da2ad29df950a6a8ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/azaldinfreidoon/.android/build-cache/e0b5d4692d712f57615741a7f5373bf3a17ca15c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0af4f577b4a21eb9be2a7f52e33b077b67e6d9f8">
+        <dex dex="/Users/azaldinfreidoon/Documents/ASU/Team7/JoshuaTree/app/build/intermediates/pre-dexed/debug/classes_2e8f87b311fda0a7bc3f725ad745c0237df221ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/azaldinfreidoon/.android/build-cache/68ab8a486f78f7d9795e9f5de0aab0ffc639038c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6d9ed9a288364688e7fcf6704776284dac1eb42e">
+        <dex dex="/Users/azaldinfreidoon/Documents/ASU/Team7/JoshuaTree/app/build/intermediates/pre-dexed/debug/classes_5465b5a061e0b14c54246fb8b73303d246dd18cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/azaldinfreidoon/.android/build-cache/8715e6ffb0d9bc8894d71ddfc5e8cafecaa2ce7f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="27775d59b16610ac76f1b83693fedd9520396332">
+        <dex dex="/Users/azaldinfreidoon/Documents/ASU/Team7/JoshuaTree/app/build/intermediates/pre-dexed/debug/classes_30d8abf0f60775bce1dd8764b6f22fdac669ea70.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/azaldinfreidoon/.android/build-cache/c92ceb43485f0ad6d9765d4aec266d42c34cd90d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2c6fcd6267cbac6509a2e72a61127534a1d616cf">
+        <dex dex="/Users/azaldinfreidoon/Documents/ASU/Team7/JoshuaTree/app/build/intermediates/pre-dexed/debug/classes_4543f8c70b640cef8ce9c987fd7fccd861d46083.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/azaldinfreidoon/.android/build-cache/bf4d26d6300f812b6a3a2963206259492f23f06a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="eb576427887e497cd958a475475f9206e38dc314">
+        <dex dex="/Users/azaldinfreidoon/Documents/ASU/Team7/JoshuaTree/app/build/intermediates/pre-dexed/debug/classes_5892b24d6425bf542af67901319c0fa6d1d32f80.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/azaldinfreidoon/.android/build-cache/daab0b81d4ed1b060840fc9027abf9255fc79162/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="/Users/azaldinfreidoon/Documents/ASU/Team7/JoshuaTree/app/build/intermediates/pre-dexed/debug/classes_d28a0e91d8f7c39e69179ba0b00996601637a642.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/azaldinfreidoon/.android/build-cache/c00c633adfdbaf13c9dec13e7ec8f50245cdd234/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fd76d95678a6b2b8a49bb8a9fb5bcef7aedb70e7">
+        <dex dex="/Users/azaldinfreidoon/Documents/ASU/Team7/JoshuaTree/app/build/intermediates/pre-dexed/debug/classes_021ab9f5e74ad3365252d0d42a8b098423f550e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/azaldinfreidoon/.android/build-cache/aeb6cbed4f540ab487d04cb7e6dae49993650521/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0a1897426566e408a5c20a3d931f77d89771d07f">
+        <dex dex="/Users/azaldinfreidoon/Documents/ASU/Team7/JoshuaTree/app/build/intermediates/pre-dexed/debug/classes_a04dda6a360105dce8fe4b6f07ee76ac5741e9ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/azaldinfreidoon/.android/build-cache/020f746c402a57c9753e9b33601e51b3d2fe42ef/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="697679619b00837e3d09e9988a2e1e2a9009d502">
+        <dex dex="/Users/azaldinfreidoon/Documents/ASU/Team7/JoshuaTree/app/build/intermediates/pre-dexed/debug/classes_ce0fdac83b33c480ee4e9d748449b14fa6b0f03e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/azaldinfreidoon/.android/build-cache/fe13702f1a5f6a49581253c42dc884d2f1c94485/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="af6ee25641df3142059c0828517aa7ee6eba08d6">
+        <dex dex="/Users/azaldinfreidoon/Documents/ASU/Team7/JoshuaTree/app/build/intermediates/pre-dexed/debug/classes_e82640a7aedef3def7355a098261240a128d9149.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/azaldinfreidoon/.android/build-cache/1d403355a1a1522c5c4adb1a7e4b9cdb6566562a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0c3e81d3eb86b86d194b5cdb6a4de78203f6f7fd">
+        <dex dex="/Users/azaldinfreidoon/Documents/ASU/Team7/JoshuaTree/app/build/intermediates/pre-dexed/debug/classes_624c700cbad8ef83de9e634ee2d456c1c15e7f11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/azaldinfreidoon/.android/build-cache/70cfeb0a391883f07545103090a0fd61c7d6aeaa/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="58adcfbe2c8393765e84c5489d01bba6a5159eb2">
+        <dex dex="/Users/azaldinfreidoon/Documents/ASU/Team7/JoshuaTree/app/build/intermediates/pre-dexed/debug/classes_121948c6429c176b2e60ae53925049564017f869.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/azaldinfreidoon/.android/build-cache/c4bde3f4b1ec33ceb75cca24024d46604e7a7830/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="71eda10e33212e44245524b5087366ff8d805825">
+        <dex dex="/Users/azaldinfreidoon/Documents/ASU/Team7/JoshuaTree/app/build/intermediates/pre-dexed/debug/classes_003e4daedcf26873fefcd94eaeb87fa889e32c6c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/azaldinfreidoon/.android/build-cache/7b01cae6497a89a11710c9448132c8c8757e8d99/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="724ce977487ab3a215d4d2eb47d8dccd9f30013f">
+        <dex dex="/Users/azaldinfreidoon/Documents/ASU/Team7/JoshuaTree/app/build/intermediates/pre-dexed/debug/classes_62ea1ec831f4ceab1e57d89ea05e2e50ceb4d707.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/azaldinfreidoon/.android/build-cache/52cdb2a4aae0af0277f5ed7d60a6ef150c469cf9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="77f9593d979f4347344be233bd0d888315f79517">
+        <dex dex="/Users/azaldinfreidoon/Documents/ASU/Team7/JoshuaTree/app/build/intermediates/pre-dexed/debug/classes_f133e24d2a8d9ab58b9323ae4ab4c6e27316707e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/azaldinfreidoon/.android/build-cache/ffb796b551f70db54ac18544af5c4ecb331d14a8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ea34579b1be157cd792376362157e9c54ebb4cd7">
+        <dex dex="/Users/azaldinfreidoon/Documents/ASU/Team7/JoshuaTree/app/build/intermediates/pre-dexed/debug/classes_704ea942774edb39c9645f84be73d919e0643275.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/azaldinfreidoon/.android/build-cache/1ff187b7e91e3369982b86dc3aa2eedf6d926f55/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b000ecceb9877fefcdc7ab1959ff03df91551656">
+        <dex dex="/Users/azaldinfreidoon/Documents/ASU/Team7/JoshuaTree/app/build/intermediates/pre-dexed/debug/classes_9aa8e8281b0520fe01ec8173ee3b63684754f9dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/azaldinfreidoon/.android/build-cache/6bd8f2fc5d5f75324c8be108af101445aeed11f7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="01a90bbb9495a8bbf6f3cfdf12f1b35caaa9524b">
+        <dex dex="/Users/azaldinfreidoon/Documents/ASU/Team7/JoshuaTree/app/build/intermediates/pre-dexed/debug/classes_ec86b24b3df4968ff676650cc4a6c98d67250510.jar" />
     </item>
 
 </items>
