@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.joshuatree.joshuatree.UserCheckoutActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/wallet_holo_blue_light">
+
+        <ImageButton
+            android:background="@color/wallet_highlighted_text_holo_dark"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:onClick="handleCheckOut"
+            android:layout_centerVertical="true"
+            android:layout_marginEnd="15dp"
+            android:src="@mipmap/upload"/>
+
+        <ImageButton
+            android:background="@color/wallet_highlighted_text_holo_dark"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:onClick="handleCamera"
+            android:layout_centerVertical="true"
+            android:layout_alignParentEnd="true"
+            android:src="@mipmap/ic_launcher"
+            android:layout_marginEnd="15dp" />
+
+    </RelativeLayout>
+
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/lv"
+        tools:layout_editor_absoluteX="8dp"
+        tools:layout_editor_absoluteY="8dp" />
+
+
+</LinearLayout>
