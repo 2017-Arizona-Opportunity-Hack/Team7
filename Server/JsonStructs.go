@@ -1,10 +1,16 @@
 package main
 
-type TestResponse struct {
-	Test int `json:"test"`
+type UserList struct {
+	UserListArr []string `json:"userList"`
 }
 
-type PostRequestJSONData struct {
-	KeyToModify string `json:"keyToModify`
-	ValueToSet  int    `json:"valueToSet`
+type ModifyInventoryPostRequestData struct {
+	KeyToModify string `json:"keyToModify"`
+	Operation   int    `json:"operation"` //0 = decrement, 1 = increment
+}
+
+type ModifyUserInventoryPostRequestData struct {
+	UserToModify string `json:"userToModify"`
+	KeyToModify  string `json:"keyToModify"`
+	Operation    int    `json:"operation"` //0 = decrement, 1 = increment
 }
