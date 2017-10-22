@@ -10,7 +10,6 @@ type ModifyInventoryPostRequestData struct {
 }
 
 type ModifyUserInventoryPostRequestData struct {
-	UserToModify string `json:"userToModify"`
-	KeyToModify  string `json:"keyToModify"`
-	Operation    int    `json:"operation"` //0 = decrement, 1 = increment
+	UserToModify   string         `json:"userToModify"`
+	ValuesToChange map[string]int `json:"valuesToChange"`
 }

@@ -1,20 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
-    android:orientation="vertical"
+
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
     <TextView
+        android:id="@+id/item"
+        android:textAlignment="textStart"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Hello"
-        android:id="@+id/textView"/>
+        android:textSize="20pt"
+        android:layout_height="match_parent"
+        android:text="PlaceholderTXT" />
 
     <TextView
+        android:id="@+id/dsfasdf"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_height="match_parent"
         android:layout_alignParentRight="true"
-        />
+        android:text="Quanity"
+        android:textSize="20pt"
+        android:textAlignment="textEnd" />
 
 </RelativeLayout>

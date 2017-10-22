@@ -46,8 +46,7 @@ func paramHandler(w http.ResponseWriter, r *http.Request) {
 	param, ok := r.URL.Query()["user"]
 
 	if !ok || len(param) < 1 {
-		log.Println("Url Param 'key' is missing")
-		fmt.Fprintf(w, "need url parameter")
+
 		return
 	}
 
@@ -94,28 +93,12 @@ func modifyUsersTakenInventoryHandler(w http.ResponseWriter, request *http.Reque
 	}
 
 	userToModify := postRequestData.UserToModify
-	keyToModify := postRequestData.KeyToModify
-	operation := postRequestData.Operation
+	valuesToChange := postRequestData.ValuesToChange
 
 	targetItemMap := userToItemsTakenMap[userToModify]
-	_, keyExists := targetItemMap[keyToModify]
-	switch operation {
-	case 0: //decrement
-		if keyExists {
-			targetItemMap[keyToModify]--
-			totalInventory[keyToModify]++
-			if targetItemMap[keyToModify] <= 0 {
-				delete(targetItemMap, keyToModify)
-			}
-		}
-	case 1: //increment
-		if keyExists {
-			targetItemMap[keyToModify]++
-			totalInventory[keyToModify]--
-		} else {
-			targetItemMap[keyToModify] = 1
-		}
-
+	for key, value := range valuesToChange {
+		targetItemMap[key] += value
+		totalInventory[key] -= value
 	}
 
 }
@@ -151,6 +134,7 @@ func modifyInventoryHandler(w http.ResponseWriter, request *http.Request) {
 		}
 	case 1: //increment
 		if keyExists {
+			fmt.Println("adding ", keyToModify)
 			totalInventory[keyToModify]++
 		} else {
 			fmt.Println("add new item")
